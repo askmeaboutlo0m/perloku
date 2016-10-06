@@ -1,4 +1,5 @@
 #!/bin/sh
+chmod +x Perloku
 
 if [ -x $1/Perloku ]; then
   echo "Perloku"
